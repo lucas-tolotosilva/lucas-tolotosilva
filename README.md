@@ -1,6 +1,6 @@
 ## Heyy! I'm Lucas Toloto!!
 
-👾 - Graduating in Analysis and Systems Development <br>
+👾 - Graduated in Analysis and Systems Development <br>
 🤖 - Love Javascript ❤️ <br>
 
 <div align="center">
